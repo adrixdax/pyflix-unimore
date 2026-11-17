@@ -1,0 +1,1 @@
+"""Pacchetto core dell'esercitazione PyFlix - Programmazione 1."""
